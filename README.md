@@ -1,2 +1,2 @@
-# catphotoapp
+# CatPhotoApp
 Learned with freecodecamp.com
